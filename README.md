@@ -19,7 +19,7 @@
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
-![Eclipse](https://img.shields.io/badge/-Eclipse-7b00b0?&logo=eclipse)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&?logoColor=violet?&logo=eclipse)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 
