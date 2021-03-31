@@ -6,7 +6,7 @@
  - También enfocado en aprender Machine Learning
  
  ### Contacto:
- [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">]
+ [<img align="left"  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">]
  
  
 ### Lenguajes
@@ -21,6 +21,7 @@
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipse)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
+![Notion](https://img.shields.io/badge/-Notion%-000?&logo=notion)
 
 
 
