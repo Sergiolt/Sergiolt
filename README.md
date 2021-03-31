@@ -10,6 +10,7 @@
  [<img align="left"  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
  
+ 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
