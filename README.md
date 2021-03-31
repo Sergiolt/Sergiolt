@@ -1,9 +1,10 @@
-### !Hola! Soy Sergio
+### !Hola! :wave: Soy Sergio
 
 
 ### ¡Soy Filólogo y proyecto de programador!
  - Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - También enfocado en aprender Machine Learning
+ - Email: sergiolopeztorres97@gmail.com
  
  ### Contacto:
  [<img align="left"  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">]
