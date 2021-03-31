@@ -14,7 +14,7 @@
 
  
 
-### Lenguajes
+### Lenguajes & Frameworks
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -24,6 +24,7 @@
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=065aec)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
