@@ -7,8 +7,8 @@
  - :mailbox_with_no_mail: Email: sergiolopeztorres97@gmail.com
  
  ### Contacto:
- [<img align="left"  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">]
- 
+ [<img align="left"  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+
  
 ### Lenguajes
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
@@ -28,3 +28,6 @@
 ![Intellij](https://img.shields.io/badge/-Intellij-000?&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 
+
+
+[linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
