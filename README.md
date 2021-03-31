@@ -3,7 +3,7 @@
 
 ### ¡Soy Filólogo y proyecto de programador!
  - Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
- - También enfocado en aprender Machine Learning
+ - :book: También enfocado en aprender Machine Learning
  - Email: sergiolopeztorres97@gmail.com
  
  ### Contacto:
