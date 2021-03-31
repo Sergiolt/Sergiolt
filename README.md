@@ -6,7 +6,7 @@
  - También enfocado en aprender Machine Learning
  
  ### Contacto:
- [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+ [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">]
  [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][web]
 
  
@@ -14,7 +14,8 @@
 
 
 ### Herramientas
-[VSCode]
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
+
 
 
 
