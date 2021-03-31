@@ -1,4 +1,4 @@
-### !Hola! Soy Sergio López
+### !Hola! Soy Sergio
 
 
 ### ¡Soy Filólogo y proyecto de programador!
@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=065aec)
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
