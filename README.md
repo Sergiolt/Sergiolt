@@ -23,6 +23,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=0b6eec)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 ![Intellij](https://img.shields.io/badge/-Intellij-000?&logo=intellij-idea)
-
+![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 
 
