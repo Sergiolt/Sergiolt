@@ -18,9 +18,9 @@
 
 
 ### Herramientas
-![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipse&logoColor=7b00b0)
-![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipse&logoColor=3b016b)
+![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code&logoColor=0b6eec)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 
 
