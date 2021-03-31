@@ -36,4 +36,4 @@
 
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
-[portfolio]: 
+[portfolio]:https://github.com/Sergiolt 
