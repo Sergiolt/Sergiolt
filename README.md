@@ -7,10 +7,10 @@
  - :book: También enfocado en aprender Machine Learning
  - :mailbox_with_no_mail: Email: sergiolopeztorres97@gmail.com
  
- ### Contacto:
+ ### Redes:
 
 [<img  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" color="blue" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 
  
 
