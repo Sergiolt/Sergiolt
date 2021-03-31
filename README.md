@@ -32,7 +32,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 ![Intellij](https://img.shields.io/badge/-Intellij-000?&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
-
+![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
 
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
