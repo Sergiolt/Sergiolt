@@ -15,7 +15,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)
-
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html)
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
