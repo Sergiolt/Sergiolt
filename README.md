@@ -2,7 +2,7 @@
 
 
 ### ¡Soy Filólogo y proyecto de programador!
- - Actualmente estoy estudiando Grado Superior de Aplicaciones Plataforma 
+ - Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - También enfocado en aprender Machine Learning
  
  ### Contacto:
@@ -12,10 +12,12 @@
 ### Lenguajes
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
@@ -24,5 +26,4 @@
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 ![Intellij](https://img.shields.io/badge/-Intellij-000?&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
-
 
