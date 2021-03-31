@@ -2,16 +2,19 @@
 
 
 ### ¡Soy Filólogo y proyecto de programador!
+
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - :book: También enfocado en aprender Machine Learning
  - :mailbox_with_no_mail: Email: sergiolopeztorres97@gmail.com
  
  ### Contacto:
+
  [<img  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
  
 
 ### Lenguajes
+
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
