@@ -11,15 +11,15 @@
  
 ### Lenguajes
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Jonnhyx?tab=repositories&q=&type=&language=java)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-[![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)](https://github.com/Jonnhyx?tab=repositories&q=&type=&language=csharp)
+![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)
 
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio)
-![Eclipse](https://img.shields.io/badge/-Eclipse-000?&?logoColor=violet?&logo=eclipse)
+![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=eclipse?logoColor=violet)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=visual-studio-code)
 ![Notion](https://img.shields.io/badge/-Notion-000?&logo=notion)
 
