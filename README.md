@@ -1,5 +1,9 @@
 ### !Hola! :wave: Soy Sergio
 
+<div align="center">
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif">
+</div>
+
 
 ### ¡Soy Filólogo y proyecto de programador!
 
