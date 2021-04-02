@@ -49,6 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolt&layout=compact&theme=material-palenight" />
 </a>
 
+
 <i>NOTA: La mayoria de repositorios son privados por lo que no aparecen en las estadísticas.</i>
 
 
