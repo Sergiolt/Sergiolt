@@ -39,7 +39,9 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
 
-<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolo</i>
+<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos</i>
+
+<img align="center" src="https://github-readme-stats.sergiolt.vercel.app/api?username=sergiolt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sergio's github stats" />
 
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
