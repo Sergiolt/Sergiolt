@@ -39,11 +39,16 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
 
-<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos</i>
+<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos.</i>
 
 <a href="https://github.com/sergiolt/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiolt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sergio's github stats" />
 </a>
+
+<a href="https://github.com/sergiolt/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiolt&repo=github-readme-stats&theme=material-palenight" />
+</a>    
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
 [portfolio]:https://github.com/Sergiolt 
