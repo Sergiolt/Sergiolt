@@ -39,8 +39,6 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
 
-<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos.</i>
-
 <a href="https://github.com/sergiolt/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiolt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sergio's github stats" />
 </a>
@@ -49,8 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolt&layout=compact&theme=material-palenight" />
 </a>
 
-
-<i>NOTA: La mayoria de repositorios son privados por lo que no aparecen en las estadísticas.</i>
+<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos. La mayoria de repositorios son privados por lo que no aparecen en las estadísticas.</i>
 
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
