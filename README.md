@@ -45,8 +45,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiolt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sergio's github stats" />
 </a>
 <a href="https://github.com/sergiolt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sergiolt&repo=github-readme-stats&theme=material-palenight" />
-</a> 
+  <img align="center" src="https://github-readme-stats.sergiolt.vercel.app/api/top-langs/?username=sergiolt&layout=compact&theme=material-palenight" />
+</a>
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
 [portfolio]:https://github.com/Sergiolt 
