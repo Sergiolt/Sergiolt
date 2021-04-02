@@ -39,6 +39,8 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
 
+<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolo</i>
+
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
 [portfolio]:https://github.com/Sergiolt 
