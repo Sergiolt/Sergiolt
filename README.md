@@ -5,11 +5,11 @@
 </div>
 
 
-### ¡Soy Filólogo y proyecto de programador!
+### ¡Soy Filólogo :mortar_board: y proyecto de programador!
 
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - :book: También enfocado en aprender Machine Learning
- - :mailbox_with_no_mail: Email: sergiolopeztorres97@gmail.com
+ - :mailbox: Email: sergiolopeztorres97@gmail.com
  
  ### Redes:
 
