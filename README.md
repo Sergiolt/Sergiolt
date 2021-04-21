@@ -47,7 +47,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolt&layout=compact&theme=material-palenight" />
 </a>
 
-<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos. La mayoria de repositorios son privados por lo que no aparecen en las estadísticas.</i>
+<i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos. La mayoría de repositorios son privados por lo que no aparecen en las estadísticas.</i>
 
 
 [linkedin]:https://www.linkedin.com/in/sergio-lopez-torres/
