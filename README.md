@@ -5,7 +5,7 @@
 </div>
 
 
-### ¡Soy Filólogo :mortar_board: y proyecto de programador!
+### ¡Proyecto de programador!
 
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - :book: También enfocado en aprender Machine Learning
