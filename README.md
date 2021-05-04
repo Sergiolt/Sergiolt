@@ -5,7 +5,7 @@
 </div>
 
 
-### ¡Proyecto de programador!
+### :eyes:
 
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - :book: También enfocado en aprender Machine Learning
