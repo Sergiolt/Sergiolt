@@ -25,9 +25,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-![C#](https://img.shields.io/badge/-C%20Sharp-000?&logo=c-sharp)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=065aec)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 
 ### Herramientas
