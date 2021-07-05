@@ -22,7 +22,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
