@@ -23,7 +23,7 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 
@@ -35,6 +35,7 @@
 ![Intellij](https://img.shields.io/badge/-Intellij-000?&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?&logo=pycharm)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 
 <a href="https://github.com/sergiolt/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiolt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sergio's github stats" />
