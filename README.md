@@ -49,4 +49,4 @@
 
 
 [linkedin]:
-[portfolio]:https://github.com/Sergiolt 
+[portfolio]:https://sergiolt.github.io/sergiolopez/
