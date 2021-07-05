@@ -13,8 +13,7 @@
  
  ### Redes:
 
-[<img  alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
-[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">][portfolio]
+- https://sergiolt.github.io/sergiolopez/
 
  
 
@@ -48,5 +47,4 @@
 <i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos. La mayoría de repositorios son privados por lo que no aparecen en las estadísticas.</i>
 
 
-[linkedin]:
-[portfolio]:https://sergiolt.github.io/sergiolopez/
+
