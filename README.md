@@ -48,7 +48,6 @@
 
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolt&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolt&count_private=true)](https://github.com/sergiolt/)
 
 
 <i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos. La mayoría de repositorios son privados por lo que no aparecen en las estadísticas.</i>
