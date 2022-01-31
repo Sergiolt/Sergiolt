@@ -46,13 +46,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Rider](https://img.shields.io/badge/-Rider-000?&logo=rider)
 
-<a href="https://github.com/sergiolt/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiolt&show_icons=true&include_all_commits=true&theme=material-palenight" alt="sergio's github stats" />
-</a>
 
-<a href="https://github.com/sergiolt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolt&layout=compact&theme=material-palenight" />
-</a>
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolt&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolt&count_private=true)](https://github.com/sergiolt/)
+
 
 <i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos. La mayoría de repositorios son privados por lo que no aparecen en las estadísticas.</i>
 
