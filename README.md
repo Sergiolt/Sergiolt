@@ -5,7 +5,8 @@
 </div>
 
 
-### :eyes:
+### :eyes:   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </p>
+
 
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - :book: También enfocado en aprender Machine Learning
@@ -13,7 +14,8 @@
  
  ### Redes:
 
-- https://sergiolt.github.io/sergiolopez/
+<a href="https://linkedin.com/in/sergio-lopez-torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-lopez-torres" height="30" width="40" /></a>
+
 
  
 
