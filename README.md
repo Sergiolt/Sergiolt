@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
+![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
