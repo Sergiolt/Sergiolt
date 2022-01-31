@@ -20,12 +20,19 @@
 ### Lenguajes & Frameworks
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
+![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=hibernate)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=csharp)
 ![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
+![Android](https://img.shields.io/badge/-Android%20Studio-000?&logo=android)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
