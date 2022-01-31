@@ -5,7 +5,7 @@
 </div>
 
 
-### :eyes:   <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </p>
+### :eyes:   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </span>
 
 
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
@@ -47,7 +47,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-000?&logo=apache-netbeans-ide)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Rider](https://img.shields.io/badge/-Rider-000?&logo=rider)
-
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolt&count_private=true&show_icons=true)
 
