@@ -9,7 +9,6 @@
 
 
  - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
- - :book: También enfocado en aprender Machine Learning
  - :mailbox: Email: sergiolopeztorres97@gmail.com
  
  ### Redes:
