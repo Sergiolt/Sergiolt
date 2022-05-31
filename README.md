@@ -35,6 +35,8 @@
 ![Unity](https://img.shields.io/badge/-Unity-435?&logo=unity)
 ![Flutter](https://img.shields.io/badge/-Flutter-435?&logo=flutter)
 ![Firebase](https://img.shields.io/badge/-Firebase-435?&logo=firebase)
+![Salesforce](https://img.shields.io/badge/-Salesforce-435?&logo=salesforce)
+
 
 ### Herramientas
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?&logo=visual-studio&logoColor=b70cee)
