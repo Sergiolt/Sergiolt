@@ -7,8 +7,6 @@
 
 ### :eyes:   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </span>
 
-
- - :computer: Actualmente estoy estudiando Grado Superior de Aplicaciones MultiPlataforma 
  - :mailbox: Email: sergiolopeztorres97@gmail.com
  
  ### Redes:
