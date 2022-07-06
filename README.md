@@ -8,6 +8,7 @@
 ### :eyes:   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </span>
 
  - :mailbox: Email: sergiolopeztorres97@gmail.com
+ - :web: Web personal: www.sergiolopeztorres.com
  
  ### Redes:
 
