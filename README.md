@@ -27,7 +27,10 @@
 ![MySQL](https://img.shields.io/badge/-SQL-435?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-435?&logo=JavaScript&logoColor=ddc508)
 ![Next.js](https://img.shields.io/badge/-Nextjs-435?&logo=next.js&logoColor=ddc508)
+![Prisma](https://img.shields.io/badge/-Prisma-435?&logo=prisma&logoColor=ffffff)
 
+
+![TailwindCss](https://img.shields.io/badge/-Prisma-435?&logo=tailwindcss&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-435?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-435?&logo=mongodb)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-435?&logo=kotlin)
