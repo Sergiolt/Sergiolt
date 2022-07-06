@@ -8,7 +8,7 @@
 ### :eyes:   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </span>
 
  - :mailbox: Email: sergiolopeztorres97@gmail.com
- - :web: Web personal: www.sergiolopeztorres.com
+ - :globe_with_meridians: Web personal: www.sergiolopeztorres.com
  
  ### Redes:
 
@@ -19,13 +19,14 @@
 
 ### Lenguajes & Frameworks
 
-![Java](https://img.shields.io/badge/-Java-435?&logo=Java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-435?&logo=java&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-435?&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-435?&logo=hibernate)
 ![Python](https://img.shields.io/badge/-Python-435?&logo=python)
 ![C#](https://img.shields.io/badge/-CSharp-435?&logo=csharp)
 ![MySQL](https://img.shields.io/badge/-SQL-435?&logo=MySQL&logoColor=4479A1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-435?&logo=JavaScript&logoColor=ddc508)
+![Next.js](https://img.shields.io/badge/-Nextjs-435?&logo=next.js&logoColor=ddc508)
 
 ![React](https://img.shields.io/badge/-React-435?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-435?&logo=mongodb)
