@@ -30,7 +30,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-435?&logo=prisma&logoColor=ffffff)
 
 
-![TailwindCss](https://img.shields.io/badge/-Prisma-435?&logo=tailwindcss&logoColor=ffffff)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-435?&logo=tailwindcss&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-435?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-435?&logo=mongodb)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-435?&logo=kotlin)
