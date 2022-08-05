@@ -28,6 +28,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-435?&logo=JavaScript&logoColor=ddc508)
 ![Next.js](https://img.shields.io/badge/-Nextjs-435?&logo=next.js&logoColor=ddc508)
 ![Prisma](https://img.shields.io/badge/-Prisma-435?&logo=prisma&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-435?&logo=nodejs&logoColor=6A9F5D)
+![ExpressJs](https://img.shields.io/badge/-Expressjs-435?&logo=nodejs&logoColor=6A9F5D)
+
+
 
 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-435?&logo=tailwindcss&logoColor=ffffff)
