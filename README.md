@@ -29,7 +29,7 @@
 ![Next.js](https://img.shields.io/badge/-Nextjs-435?&logo=next.js&logoColor=ddc508)
 ![Prisma](https://img.shields.io/badge/-Prisma-435?&logo=prisma&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-435?&logo=nodejs&logoColor=6A9F5D)
-![ExpressJs](https://img.shields.io/badge/-Expressjs-435?&logo=nodejs&logoColor=6A9F5D)
+![ExpressJs](https://img.shields.io/badge/-Expressjs-435?&logo=express&logoColor=6A9F5D)
 
 
 
