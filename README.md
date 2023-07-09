@@ -56,7 +56,7 @@
               
 [![Top Langs](https://github-readme-stats-sergiolt.vercel.app/api/top-langs/?username=sergiolt)](https://github.com/sergiolt/github-readme-stats)
 
-[![Sergiolt's GitHub stats](https://github-readme-stats-sergiolt.vercel.app/api?username=sergiolt&show_icons=true&theme=transparent&count_private=true)](https://github.com/sergiolt/github-readme-stats)
+[![Sergiolt's GitHub stats](https://github-readme-stats-sergiolt.vercel.app/api?username=sergiolt&show_icons=true&theme=transparent)](https://github.com/sergiolt/github-readme-stats)
 
 
  
