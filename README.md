@@ -30,7 +30,7 @@
 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-435?&logo=tailwindcss&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-435?&logo=react)
-![ReactNative](https://img.shields.io/badge/-React-Native-435?&logo=react)
+![ReactNative](https://img.shields.io/badge/-ReactNative-435?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-435?&logo=mongodb)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-435?&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android%20Studio-435?&logo=android)
