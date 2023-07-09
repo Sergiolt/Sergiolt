@@ -15,7 +15,7 @@
 
 ### Lenguajes & Frameworks
 
-![Java](https://img.shields.io/badge/-Java-435?&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-435?&logo=openjdk&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-435?&logo=springboot)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-435?&logo=hibernate)
 ![Python](https://img.shields.io/badge/-Python-435?&logo=python)
