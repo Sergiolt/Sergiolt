@@ -1,8 +1,6 @@
 ### !Hola! :wave: Soy Sergio
 
 
-### :eyes:   <span align="left"> <img src="https://komarev.com/ghpvc/?username=sergiolt&label=Profile%20views&color=0e75b6&style=flat" alt="sergiolt" /> </span>
-
  - :mailbox: Email: sergiolopeztorres97@gmail.com
  - :globe_with_meridians: Web personal: www.sergiolopeztorres.com
  
@@ -32,6 +30,7 @@
 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-435?&logo=tailwindcss&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-435?&logo=react)
+![ReactNative](https://img.shields.io/badge/-React-Native-435?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-435?&logo=mongodb)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-435?&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android%20Studio-435?&logo=android)
