@@ -36,7 +36,7 @@
 ![Android](https://img.shields.io/badge/-Android%20Studio-435?&logo=android)
 ![Unity](https://img.shields.io/badge/-Unity-435?&logo=unity)
 ![Flutter](https://img.shields.io/badge/-Flutter-435?&logo=flutter)
-![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-000?&logo=rabbitmq)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-435?&logo=rabbitmq)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-435?&logo=salesforce)
 
 
