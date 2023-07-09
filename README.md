@@ -57,7 +57,7 @@
 ![Sergio's GitHub stats](https://github-readme-stats-livid-iota.vercel.app/api?username=sergiolt&count_private=true&show_icons=true)
 https://github-readme-stats.vercel.app/api?username=sergiolt&count_private=true&show_icons=true
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-livid-iota.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-livid-iota.vercel.app/api?username=sergiolt&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 <i>NOTA: Herramientas & Lenguajes no indican el nivel en ellos. Simplemente indican que los he utilizado alguna vez o estoy actualmente aprendiéndolos.</i>
 
 
