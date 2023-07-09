@@ -30,13 +30,13 @@
 
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-435?&logo=tailwindcss&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-435?&logo=react)
-![ReactNative](https://img.shields.io/badge/-ReactNative-435?&logo=react)
+![ReactNative](https://img.shields.io/badge/-React%20Native-435?&logo=react)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-435?&logo=mongodb)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-435?&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android%20Studio-435?&logo=android)
 ![Unity](https://img.shields.io/badge/-Unity-435?&logo=unity)
 ![Flutter](https://img.shields.io/badge/-Flutter-435?&logo=flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-435?&logo=firebase)
+![Rabbitmq](https://img.shields.io/badge/-Rabbitmq-000?&logo=rabbitmq)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-435?&logo=salesforce)
 
 
