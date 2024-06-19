@@ -2,7 +2,7 @@
 
 
  - :mailbox: Email: sergiolopeztorres97@gmail.com
- - :globe_with_meridians: Web personal: www.sergiolopeztorres.com
+ - :globe_with_meridians: Web personal: www.sergiolopeztorres.dev
  
  ### Redes:
 
